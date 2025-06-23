@@ -33,19 +33,15 @@ This project is an AI-powered travel agent application that helps users plan tri
 
 Run the main application:
 ```
-python main.py
+python travel_agent.py
 ```
 
 Follow the prompts to interact with the AI travel agent.
 
-## Project Structure
+
 
 ```
-ai-travel-agent/
-├── main.py
-├── requirements.txt
-├── README.md
-└── ... (other source files)
+
 ```
 
 ## Contributing
